@@ -1,12 +1,6 @@
 [
     {
         "remote":       "aospa",
-        "repository":   "AOSPA/android_device_xiaomi_alioth",
-        "target_path":  "device/xiaomi/alioth",
-        "revision":     "topaz"
-    },
-    {
-        "remote":       "aospa",
         "repository":   "AOSPA/android_kernel_xiaomi_sm8250",
         "target_path":  "kernel/msm-4.19",
         "revision":     "topaz"
